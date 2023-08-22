@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>WELCOME TO FRONTEND</TITLE>
+        <body>
+            <h1>HTML</h1>
+            <h2>hi</h2>
+            <p>html stands for hyper text markup language.it consists of tags and attributes.it is not a programming language.HTML describes the structure of a Web page
+                HTML consists of a series of elements.<br>HTML elements tell the browser how to display the content.HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+                </p><hr>
+            <h1>CSS</h1>
+            <p>CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+                CSS saves a lot of work.<br> It can control the layout of multiple web pages all at once
+                External stylesheets are stored in CSS files
+                </p>
+                <hr>
+            <h1>BOOTSTRAP</h1>
+            <p>bootstrap is a frontend framework for faster and easier web development</p>
+            <hr>
+<h1>JAVASCRIPT</h1>
+            <p>javascript provides users to interact with webpages</p>
+            <hr>
+            <h1>REACTJS</h1>
+            <p>used for building interactive user interfaces and web apps.
+            </p>hr>
+        </body>
+
+    </head>
+</html>
